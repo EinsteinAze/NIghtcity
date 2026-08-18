@@ -3,3 +3,41 @@ node_modules/
 dist/
 build/
 *.log
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+
+# Build files
+Build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Unreal generated files
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Crash reports / logs
+crashinfo/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
